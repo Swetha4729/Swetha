@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -42,33 +39,6 @@ I'm **Swetha**, a passionate Computer Science student 🚀
 ✔ **[Hospital Management System](your-project-url)** - Manages patient records and appointments 🏥  
 ✔ **[Student Analysis Mobile App](your-project-url)** - Provides student performance analytics 📊  
 ✔ **[Weapon Detection System (Dataset Annotation)](your-project-url)** - Annotated datasets for AI-based security 🚨  
-
----
-
-## 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=Swetha&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Swetha&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha&theme=radical&hide_border=true&layout=compact)  
-
----
-
-## 🏆 **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=Swetha&theme=dracula&no-frame=false&margin-w=4)  
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />  **My Quote**  
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+TRUST+THE+PROCESS,+NOT+THE+OUTCOME...&center=true&width=500&height=90&color=16A34A&duration=4000&pause=500">
-  </a>
-</div>
-
----
-
-### **🔥 Profile Views**
-<img src="https://profile-counter.glitch.me/Swetha/count.svg" />  
-[![](https://visitcount.itsvg.in/api?id=Swetha&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 ---
 
